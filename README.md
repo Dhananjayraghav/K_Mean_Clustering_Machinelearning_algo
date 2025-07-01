@@ -1,4 +1,4 @@
-# K_Mean_Clustering_Machinelearning_algo
+# Customer_segmentation using k-means
 K-means clustering is a popular unsupervised machine learning algorithm used to partition data into K distinct, non-overlapping clusters.
 
 How It Works
